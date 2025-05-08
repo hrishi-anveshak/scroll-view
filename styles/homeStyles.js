@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
     backgroundColor: '#ffff',
   },
   section: {
-    marginVertical: 50,
+    paddingBottom: 50,
   },
   card: {
     justifyContent: 'center',
@@ -18,8 +18,7 @@ export const styles = StyleSheet.create({
     width: '90%',
     margin: 'auto',
     borderRadius: 20,
-    padding: 25,
-    borderWidth: 1,
+    padding: 15,
     shadowColor: '#000',
     shadowOffset: {width: -10, height: 6},
     shadowOpacity: 0.1,
@@ -33,12 +32,21 @@ export const styles = StyleSheet.create({
   avtar: {
     width: 120,
     height: 120,
-    borderRadius: 100,
+    borderRadius: 25,
+    shadowColor: '#000',
+    shadowOffset: {width: -10, height: 6},
+    shadowOpacity: 0.1,
+    shadowRadius: 15,
+    elevation: 5,
   },
   contians: {
     width: 200,
     borderLeftWidth: 1,
-    borderLeftColor: '#85755f',
+    borderLeftColor: '#f2f0f0',
+  },
+  calendar: {
+    width: 11,
+    height: 11,
   },
   name: {
     color: '#000',
@@ -61,6 +69,22 @@ export const styles = StyleSheet.create({
     textAlign: 'left',
     fontFamily: 'Poppins-Regular',
     marginLeft: 20,
+  },
+  searchContainer: {
+    padding: 10,
+    marginTop: 50,
+  },
+  searchInput: {
+    height: 50,
+    borderColor: '#9e9e9e',
+    borderWidth: 1,
+    borderRadius: 10,
+    paddingLeft: 20,
+    fontSize: 16,
+    width: '95%',
+    margin: 'auto',
+    color: '#000',
+    fontFamily: 'Poppins-Regular',
   },
 });
 export default styles;

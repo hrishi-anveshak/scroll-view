@@ -12,8 +12,23 @@ export default function Profile({data}: any) {
       />
       <View style={styles.contians}>
         <Text style={styles.name}>{data.name}</Text>
-        <Text style={styles.address}>📍{data.address}</Text>
-        <Text style={styles.birthday}>📆 {data.birthdate}</Text>
+        <Text style={styles.address}>
+          <Image
+            style={styles.calendar}
+            source={require('../../images/location.png')}
+          />{' '}
+          {data.address}
+        </Text>
+        <View style={{flexDirection: 'row'}}>
+          <Text style={styles.birthday}>
+            <Image
+              style={styles.calendar}
+              source={require('../../images/calendar.png')}
+            />
+            {'  '}
+            {data.birthdate}
+          </Text>
+        </View>
       </View>
     </View>
   );
