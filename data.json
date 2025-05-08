@@ -1,0 +1,142 @@
+[
+    {
+      "id": "1",
+      "name": "Anushree More",
+      "address": "Nashik, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/1.jpg",
+      "birthdate": "2000-11-12"
+    },
+    {
+      "id": "2",
+      "name": "Sampada Naik",
+      "address": "Pune, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "birthdate": "1997-11-03"
+    },
+    {
+      "id": "3",
+      "name": "Riya Deshmukh",
+      "address": "Nagpur, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/3.jpg",
+      "birthdate": "2000-01-22"
+    },
+    {
+      "id": "4",
+      "name": "Karan Patil",
+      "address": "Mumbai, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/men/4.jpg",
+      "birthdate": "1995-03-14"
+    },
+    {
+      "id": "5",
+      "name": "Neha Kadam",
+      "address": "Aurangabad, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg",
+      "birthdate": "1998-09-26"
+    },
+    {
+      "id": "6",
+      "name": "Amit Sharma",
+      "address": "Delhi, India",
+      "image": "https://randomuser.me/api/portraits/men/6.jpg",
+      "birthdate": "1993-06-19"
+    },
+    {
+      "id": "7",
+      "name": "Shruti Mehta",
+      "address": "Surat, Gujarat",
+      "image": "https://randomuser.me/api/portraits/women/7.jpg",
+      "birthdate": "1996-02-11"
+    },
+    {
+      "id": "8",
+      "name": "Vikram Rao",
+      "address": "Hyderabad, Telangana",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg",
+      "birthdate": "1994-08-03"
+    },
+    {
+      "id": "9",
+      "name": "Divya Bhatt",
+      "address": "Lucknow, Uttar Pradesh",
+      "image": "https://randomuser.me/api/portraits/women/9.jpg",
+      "birthdate": "1992-12-30"
+    },
+    {
+      "id": "10",
+      "name": "Rahul Singh",
+      "address": "Chandigarh, India",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg",
+      "birthdate": "1991-04-15"
+    },
+    {
+      "id": "11",
+      "name": "Sneha Raj",
+      "address": "Patna, Bihar",
+      "image": "https://randomuser.me/api/portraits/women/11.jpg",
+      "birthdate": "1997-01-20"
+    },
+    {
+      "id": "12",
+      "name": "Manish Joshi",
+      "address": "Bhopal, MP",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "birthdate": "1990-03-10"
+    },
+    {
+      "id": "13",
+      "name": "Kriti Sharma",
+      "address": "Shimla, Himachal Pradesh",
+      "image": "https://randomuser.me/api/portraits/women/13.jpg",
+      "birthdate": "1998-10-12"
+    },
+    {
+      "id": "14",
+      "name": "Tushar Rane",
+      "address": "Thane, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/men/14.jpg",
+      "birthdate": "1995-05-25"
+    },
+    {
+      "id": "15",
+      "name": "Rashmi Kulkarni",
+      "address": "Kolhapur, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/15.jpg",
+      "birthdate": "1996-06-18"
+    },
+    {
+      "id": "16",
+      "name": "Rohan Pawar",
+      "address": "Ahmedabad, Gujarat",
+      "image": "https://randomuser.me/api/portraits/men/16.jpg",
+      "birthdate": "1993-02-07"
+    },
+    {
+      "id": "17",
+      "name": "Sonal Jadhav",
+      "address": "Latur, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/women/17.jpg",
+      "birthdate": "1997-11-11"
+    },
+    {
+      "id": "18",
+      "name": "Nikhil Kale",
+      "address": "Jalgaon, Maharashtra",
+      "image": "https://randomuser.me/api/portraits/men/18.jpg",
+      "birthdate": "1994-07-22"
+    },
+    {
+      "id": "19",
+      "name": "Megha Nair",
+      "address": "Kerala, India",
+      "image": "https://randomuser.me/api/portraits/women/19.jpg",
+      "birthdate": "1992-04-09"
+    },
+    {
+      "id": "20",
+      "name": "Pratik Salvi",
+      "address": "Goa, India",
+      "image": "https://randomuser.me/api/portraits/men/20.jpg",
+      "birthdate": "1990-08-29"
+    }
+  ]
